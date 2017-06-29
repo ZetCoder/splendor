@@ -1,0 +1,384 @@
+{
+    "firstLevelCards":[
+        {
+            "price": {
+                "white": 1,
+                "blue": 1,
+                "red": 1,
+                "brown": 2 
+            },
+            "points": 0,
+            "bonus": "green",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "red": 3
+            },
+            "points": 0,
+            "bonus": "green",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 1,
+                "blue": 3,
+                "green": 1
+            },
+            "points": 0,
+            "bonus": "green",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 1,
+                "blue": 1,
+                "red": 1,
+                "brown": 1
+            },
+            "points": 0,
+            "bonus": "green",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "green": 1,
+                "red": 3,
+                "brown": 1
+            },
+            "points": 0,
+            "bonus": "brown",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 2,
+                "red": 2
+            },
+            "points": 0,
+            "bonus": "red",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 1,
+                "green": 1,
+                "red": 2,
+                "brown": 1
+            },
+            "points": 0,
+            "bonus": "blue",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "green": 2,
+                "red": 1
+            },
+            "points": 0,
+            "bonus": "brown",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 4
+            },
+            "points": 1,
+            "bonus": "red",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "blue": 1,
+                "green": 1,
+                "red": 1,
+                "brown": 1
+            },
+            "points": 0,
+            "bonus": "white",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "points": 0,
+            "bonus": "brown",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "green": 2,
+                "brown": 2
+            },
+            "points": 0,
+            "bonus": "blue",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 1,
+                "red": 1,
+                "brown": 3
+            },
+            "points": 0,
+            "bonus": "red",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "blue": 3
+            },
+            "points": 0,
+            "bonus": "white",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "blue": 1,
+                "green": 3,
+                "red": 1
+            },
+            "points": 0,
+            "bonus": "blue",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 2,
+                "green": 2
+            },
+            "points": 0,
+            "bonus": "brown",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "blue": 2,
+                "red": 2
+            },
+            "points": 0,
+            "bonus": "green",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "blue": 2,
+                "green": 2,
+                "brown": 1
+            },
+            "points": 0,
+            "bonus": "white",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "red": 2,
+                "brown": 1
+            },
+            "points": 0,
+            "bonus": "white",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "green": 4
+            },
+            "points": 1,
+            "bonus": "white",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 3
+            },
+            "points": 0,
+            "bonus": "red",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 1,
+                "blue": 1,
+                "green": 1,
+                "brown": 1
+            },
+            "points": 0,
+            "bonus": "red",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 2,
+                "green": 1,
+                "brown": 2
+            },
+            "points": 0,
+            "bonus": "red",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "blue": 2,
+                "green": 1
+            },
+            "points": 0,
+            "bonus": "red",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 1,
+                "green": 1,
+                "red": 1,
+                "brown": 1
+            },
+            "points": 0,
+            "bonus": "blue",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "brown": 4
+            },
+            "points": 1,
+            "bonus": "green",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 2,
+                "blue": 1
+            },
+            "points": 0,
+            "bonus": "green",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 1,
+                "brown": 2
+            },
+            "points": 0,
+            "bonus": "blue",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "brown": 3
+            },
+            "points": 0,
+            "bonus": "blue",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 1,
+                "green": 2,
+                "red": 2
+            },
+            "points": 0,
+            "bonus": "blue",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "green": 3
+            },
+            "points": 0,
+            "bonus": "brown",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 1,
+                "blue": 2,
+                "green": 1,
+                "red": 1
+            },
+            "points": 0,
+            "bonus": "brown",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "blue": 4
+            },
+            "points": 1,
+            "bonus": "brown",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "blue": 1,
+                "red": 2,
+                "brown": 2
+            },
+            "points": 0,
+            "bonus": "green",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 3,
+                "blue": 1,
+                "brown": 1
+            },
+            "points": 0,
+            "bonus": "white",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "blue": 1,
+                "green": 2,
+                "red": 1,
+                "brown": 1
+            },
+            "points": 0,
+            "bonus": "white",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 2,
+                "blue": 2,
+                "red": 1
+            },
+            "points": 0,
+            "bonus": "brown",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "red": 4
+            },
+            "points": 1,
+            "bonus": "blue",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "white": 2,
+                "blue": 1,
+                "green": 1,
+                "brown": 1
+            },
+            "points": 0,
+            "bonus": "red",
+            "imgUrl": ""
+        },
+        {
+            "price": {
+                "blue": 2,
+                "brown": 2
+            },
+            "points": 0,
+            "bonus": "white",
+            "imgUrl": ""
+        }
+    ]
+}
