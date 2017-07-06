@@ -23,7 +23,7 @@ export class CardsComponent implements OnInit {
     .subscribe((res: Response) => {
       this.data = res.json;
       this.loading = false;
-      console.log(JSON.parse(res['_body']));
+      //console.log(JSON.parse(res['_body']));
     });
   }
 
