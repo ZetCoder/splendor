@@ -1,16 +1,20 @@
-<table class="cards-slots">
+<table class="cards-slots" *ngIf="randomCollection?.length">
     <tbody>
         <tr class="cards-slots_high">
-            <td><img src="" alt="card"></td>
-            <td><img src="" alt="card"></td>
-            <td><img src="" alt="card"></td>
-            <td><img src="" alt="card"></td>
+            <td><img src="{{imgUrl.lvl1}}" alt="back"></td>
+            <td *ngFor="let card of randomCollection"><img src="{{card.imgUrl}}" alt="card">
+                <p>price: {{card.price | json}}</p>
+                <p>points: {{card.points}}</p>
+                <p>bonus: {{card.bonus}}</p>
+            </td>
         </tr>
         <tr class="cards-slots_medium">
-            <td><img src="" alt="card"></td>
-            <td><img src="" alt="card"></td>
-            <td><img src="" alt="card"></td>
-            <td><img src="" alt="card"></td>
+            <td><img src="{{imgUrl.lvl2}}" alt="back"</td>
+            <td *ngFor="let card of randomCollection"><img src="{{card.imgUrl}}" alt="card">
+                <p>price: {{card.price | json}}</p>
+                <p>points: {{card.points}}</p>
+                <p>bonus: {{card.bonus}}</p>
+            </td>
         </tr>
         <tr class="cards-slots_low">
             <td><img src="" alt="card"></td>

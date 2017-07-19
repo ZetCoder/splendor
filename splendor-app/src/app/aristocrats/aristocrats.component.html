@@ -1,9 +1,9 @@
 <section class="sec-aristocrates aristocrates">
-    <ul class="aristocrates-slots">
-        <li>Aristocrat price is {{aristocrat.price}} and points are {{aristocrat.points}} and img url is {{data}} and it look like this <img src="{{data}}" alt="aristocrate"></li>
-        <li><img src="" alt="aristocrate"></li>
-        <li><img src="" alt="aristocrate"></li>
-        <li><img src="" alt="aristocrate"></li>
-        <li><img src="" alt="aristocrate"></li>
+    <ul *ngIf="randomCollection?.length" class="aristocrates-slots">
+        <li *ngFor="let item of randomCollection">
+            <img  src="{{item.imgUrl}}" alt="aristocrate">
+            price: {{item.price | json}}
+            points: {{item.points}}
+        </li>
     </ul>
 </section>

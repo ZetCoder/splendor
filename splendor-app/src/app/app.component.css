@@ -1,0 +1,17 @@
+app-cards-stacks {
+    display: block;
+    width: 20%;
+    float: left;
+}
+
+app-cards {
+    display: block;
+    width: 80%;
+    float: left;
+}
+
+app-aristocrats {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}

@@ -1,0 +1,20 @@
+.sec-aristocrates {
+    margin-bottom: 20px;
+}
+
+.aristocrates-slots {
+    width: 680px;
+    margin: 0 auto;
+}
+
+.sec-aristocrates li {
+    display: block;
+    float: left;
+    width: 150px;
+    height: auto;
+    padding: 0 10px;
+}
+
+.sec-aristocrates img {
+    width: 100%;
+}
